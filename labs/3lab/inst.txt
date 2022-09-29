@@ -1,0 +1,25 @@
+For this lab you will be modifying the simple calculator program that you wrote for Assignment 2. 
+Please review that assignment for the full requirements of that program. You should use your calculator 
+program for this lab, but if you didn't complete Assignment 2 use this code.
+
+
+To complete the lab make the following modifications to the calculator program:
+
+    When the user enters their choice for the calculator operation (+, -, *, or /) 
+    it should be a number between 1 and 4 (or 0 and 3). In the original version of the program 
+    if the user entered an illegal value no operation was performed. Modify the program so that anytime the user 
+    enters an illegal operation an error message is printed and the user is asked for a new value. This will 
+    require adding a loop whose condition is based on the user's choice.
+
+    In the initial version of the program it would perform one operation and then exit. Change the program so that when 
+    it finishes a calculation it asks the user if they want to perform another calculation. You can have the user enter a 
+    0 for no and 1 for yes, or use a char so they can enter n or y.
+
+    Extra Credit: Add an additional calculation to the calculator. This calculation should sum all of the integers between 
+    the two numbers the user entered (truncating the numbers if the user entered a decimal). For example, if the user 
+    entered 5.2 and 8.7 then the calculator should sum all of the values between 5 and 8 (i.e. 5 + 6 + 7 + 8). Remember
+    that if you store a double value in an int variable it is automatically truncated.
+
+Turn in: 
+
+The .cpp file of your program and screenshots showing your program's output.

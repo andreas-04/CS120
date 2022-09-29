@@ -1,0 +1,45 @@
+Part one hypothesize whether each of the Boolean statements 
+and mathematical expressions given below is true or false. 
+Write your hypotheses in a file that can be printed in lab 
+(or emailed to the TA if that is the TA's preference). 
+You will not be graded on whether you get these right or 
+wrong, but you do need to turn them in.
+
+Consider which expressions were the most difficult 
+to understand. Create 3 more of your own expressions 
+to try to clarify how Boolean and Mathematical expressions 
+are evaluated in C/C++. Add these expressions along with 
+your hypotheses about their values to the list given below 
+(for a total of 23 expressions).
+
+Part 2 write a program to determine whether the Boolean 
+statements and mathematical expressions given below, plus
+the three that you created, are true or false. Remember 
+that C++ (and C) use a 1 for true and a 0 for false. 
+Thus, to determine the validity of a Boolean statement 
+you only need to embed it in a cout statement. For example,
+the command:
+cout << (7 < 9) || (4 < 0) << endl;
+will print 1 if the statement is true and 0 if the 
+statement is false.
+
+To determine is a mathematical expression is 
+treated as true or false an if-else statement can be used.
+For example, to determine whether the expression: 5*6 - 30 
+treated as true or false you can use the code:
+if(5*6 -30){
+    cout << "It's true\n";
+} else {
+    cout << "It's false\n";
+}
+
+Make sure you can print and turn in the results from your
+program as well as the program itself. (Remember to use 
+the script command to create a printable output file. 
+The command script lab2output will create a file called 
+lab2output that you can print.
+
+Part three use the results of the program to mark on
+your original file containing your hypotheses which 
+hypotheses were correct and which ones were incorrect.
+

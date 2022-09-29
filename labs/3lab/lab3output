@@ -1,0 +1,37 @@
+Script started on Wed Sep 14 01:03:56 2022
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Andreass-MacBook-Air.local/Users/andreasneacsu/Desktop/code/cs120/labProjects/3lab[0m[27m[24m[Jandreasneacsu@Andreass-MacBook-Air 3lab % [K[?2004h/Users/andreasneacsu/Desktop/Code/CS120/labProjects/3lab/modifiedCalculator ; exit;[K[A[12C./a.out[K[1B[K[A[49C[?2004l[1BInput your first integer: 1
+(1) Addition
+(2) Subtraction
+(3) Multiplication
+(4) Division
+(5) Sum of all Integers
+Input your desired operation: 5
+Input your second integer: 10
+55
+Would you like to make another operation? (1/0): 1
+(1) Addition
+(2) Subtraction
+(3) Multiplication
+(4) Division
+(5) Sum of all Integers
+Input your desired operation: 4
+Input your second integer: 10
+5.5
+Would you like to make another operation? (1/0): 1
+(1) Addition
+(2) Subtraction
+(3) Multiplication
+(4) Division
+(5) Sum of all Integers
+Input your desired operation: 1
+Input your second integer: 10
+15.5
+Would you like to make another operation? (1/0): 0
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Andreass-MacBook-Air.local/Users/andreasneacsu/Desktop/code/cs120/labProjects/3lab[0m[27m[24m[Jandreasneacsu@Andreass-MacBook-Air 3lab % [K[?2004heexit[?2004l
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+Deleting expired sessions...     334 completed.
+
+Script done on Wed Sep 14 01:05:20 2022

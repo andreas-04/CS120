@@ -1,0 +1,21 @@
+Script started on Sat Sep 17 17:21:02 2022
+Restored session: Sat Sep 17 17:20:36 PDT 2022
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Andreass-MacBook-Air.local/Users/andreasneacsu/desktop/code/cs120/assignments/3assignment[0m[27m[24m[Jandreasneacsu@Andreass-MacBook-Air 3assignment % [K[?2004hcclear[?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                                                               ]7;file://Andreass-MacBook-Air.local/Users/andreasneacsu/desktop/code/cs120/assignments/3assignment[0m[27m[24m[Jandreasneacsu@Andreass-MacBook-Air 3assignment % [K[?2004h../a.out[?2004l
+> Welcome to the Number Classifier Program™ 
+> Enter a number to begin: 182 1
+Your number isn't a deciaml, it's odd and it's positive.
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Andreass-MacBook-Air.local/Users/andreasneacsu/desktop/code/cs120/assignments/3assignment[0m[27m[24m[Jandreasneacsu@Andreass-MacBook-Air 3assignment % [K[?2004h./a.outclear  ./a.out[?2004l
+> Welcome to the Number Classifier Program™ 
+> Enter a number to begin: 90
+Your number isn't a deciaml, it's even and it's positive.
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Andreass-MacBook-Air.local/Users/andreasneacsu/desktop/code/cs120/assignments/3assignment[0m[27m[24m[Jandreasneacsu@Andreass-MacBook-Air 3assignment % [K[?2004h./a.out[?2004l
+> Welcome to the Number Classifier Program™ 
+> Enter a number to begin: -212.2
+Your number is a deciaml, it's even and it's negative.
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Andreass-MacBook-Air.local/Users/andreasneacsu/desktop/code/cs120/assignments/3assignment[0m[27m[24m[Jandreasneacsu@Andreass-MacBook-Air 3assignment % [K[?2004heexit[?2004l
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sat Sep 17 17:21:51 2022

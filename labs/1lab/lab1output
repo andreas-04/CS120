@@ -1,0 +1,54 @@
+Script started on Tue Aug 30 11:18:22 2022
+[1m[7m%[27m[1m[0m                                                                                                                                   
+ 
+
+
+
+[0m[27m[24m[Jandreasneacsu@Andreass-MacBook-Air labProject1 % [K[?2004hg++ ascii.cpp[13Dssh neac9115@cs-120.cs.uidaho.edu[33Dsudo apt update                  [18Dinstall ros-noetic-desktop-full[35Dsh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'[K[A[8C./a.out[K[1B
+[K[A[56C[?2004l[1B
+ 
+ 
+	()((((((((((((((((()))))))))))))))))()
+	()((((((((((((((((()))))))))))))))))()
+	|------------------------------------|
+	|                                    |
+	|                                    |
+	|  OOOOOOOOOOO         000000000000  |
+	|    ______               ______     |
+	|      (%)                 (%)       |
+	|                \                   |
+	|                 \                  |
+	|                  \                 |
+	|              -----                 |         ____________________
+	|                                    |        /                    \
+	|        --------------------        |       /                      \
+	|        \                  /        |      <       Hello World!     )
+	|         \                /         |       \                      /
+	|          \______________/          |        \____________________/
+	|____________________________________|
+	                |
+	                |
+	             ---|---
+	                ^
+	               / \
+ 
+ 
+[1m[7m%[27m[1m[0m                                                                                                                                   
+ 
+
+[0m[27m[24m[Jandreasneacsu@Andreass-MacBook-Air labProject1 % [K[?2004h./a.out     .  lls[?2004l
+
+a.out		ascii.cpp	ascii.txt	lab1output
+[1m[7m%[27m[1m[0m                                                                                                                                   
+ 
+
+[0m[27m[24m[Jandreasneacsu@Andreass-MacBook-Air labProject1 % [K[?2004hppwd[?2004l
+
+/Users/andreasneacsu/Desktop/Code/CS120/labProjects/labProject1
+[1m[7m%[27m[1m[0m                                                                                                                                   
+ 
+
+[0m[27m[24m[Jandreasneacsu@Andreass-MacBook-Air labProject1 % [K[?2004heexit[?2004l
+
+
+Script done on Tue Aug 30 11:22:06 2022

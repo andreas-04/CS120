@@ -1,0 +1,39 @@
+
+CS120
+Programming Assignment #1
+
+Due: Friday Sept. 3rd at the beginning of class.
+
+Beginning with the Fortune Teller program make the following additions and modifications.
+
+    Change the program so that it accepts one more input from the user. you can make up what the new input is, examples include shoe size, age, etc.
+    Change the expression used to generate the "mystic number", Line 19 of the original, program in the text so that it uses all three numbers.
+    Add at least one more condiditional so that there is an additional possible message to the user.
+    Extra credit: add a fourth (or more) input from the user. Adjust the mystic number expression and conditionals accordingly.
+
+If you can't get all of the modifications done (and for some of the assignments you probably won't) be sure to list 
+which ones you've completed in the comments at the beginning of the program. On the other hand if you did extra work on the 
+assignment (and sometime you will want to) also describe the extra work in the comment at the beginning of the program.
+
+Include a block of comments at the beginning of the program (or add to the existing block)
+ that lists your names, section number, date, and the assignment number. Also include comments on any parts of the assignment 
+you didn't finish or on any extra work you did. Include this comment block at the beginning of every assignment and lab.
+
+For now we are going to assume that the user enters the right type of data (e.g. a number when a number is expected). 
+Later we will start to look at correcting user input errors - a big topic.
+
+To print the program output do the following:
+1) Type script output1
+
+2) Run the program and enter your numbers.
+
+3) When the game is over type exit, this stops the script command.
+
+4) Look for a file called output1. Use nano or emacs to open the file and look at it. 
+    It should contain a 'transcript' of your game.
+
+5) Once this is working - i.e. generating a file that shows a 'transcript' of what took place - redo these steps, 
+    but run the program several times using different inputs to show the different possible messages. 
+    This is an important step in testing that the program works for a variety of inputs.
+
+Turn in: Print the program and the sample output showing how it works. Turn in both the program and the output. 

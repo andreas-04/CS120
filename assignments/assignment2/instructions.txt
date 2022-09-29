@@ -1,0 +1,31 @@
+ Due at the beginning of class on Friday September 10th.
+
+For this assignment you will be creating a new program to perform very simple calculations for the user: +, -, /, *. The general format will be very similar to that for the Fortune Teller program, so feel free to reference that program for ideas.
+
+The calculator program should work as follows:
+
+    First the program should print a brief message explaining to the user what the program does.
+    Then the program allows the user to enter two values whose types are double. Each of these two values needs to be stored in its own variable.
+    Next the program prints a short menu of the operations avialable to the user. For example:
+    1) addition
+    2) subtraction
+    3) multiplication
+    4) division
+    And user enters a third value, an int that corresponds to the operation the user wants to have the program perform. For example, the user enters a 1 for addition; a 2 for subtraction; etc.
+    Then the program should perform the correct calculation based on the three values the user entered. This will require four if statements, one for each possible operation.
+    The program should be able to perfrom at least addition, subtraction, multiplication, and division.
+    Extra Credit: try performing division by 0. You should get some sort of error. To fix this problem include a check in the division portion of the code to test whether the user entered a 0. If the did enter a 0 have the program print a warning message instead of performing the division operation. 
+
+If you can't complete the entire assignment be sure to describe you've completed in the comments at the beginning of the program. On the other hand if you did extra work on the assignment (and sometime you will want to) also describe the extra work in the comment at the beginning of the program.
+
+Include a block of comments at the beginning of the programs (or add to the existing block) that lists your names, section number, date, and the assignment number. Also include comments on any parts of the assignment you didn't finish or on any extra work you did. Include this comment block at the beginning of every assignment and lab.
+
+For now we are going to assume that the user enters the right type of data (e.g. numbers). Later we will start to look at correcting user input errors - a big topic. You could try entering a letter instead of a number if you want - control X will stop the program.
+
+To print the program output do the following:
+1) Type script output1
+2) Run the program.
+2a) Rerun the program several times with different inputs and testing different operations (addition, subtraction, etc). 3) When you feel you have tested the program sufficiently type exit, this stops the script command.
+4) Look for a file called output1. Use nano or emacs to open the file and look at it. It should contain a 'tranSCRIPT' of your program.
+
+Turn in: Print the program and sample output showing that the program works. Turn in both the program and the sample output. Remember you will need to use something like WinSCP or CyberDuck to transfer the files from the CS computer to your local computer for printing. 

@@ -1,0 +1,32 @@
+Script started on Sun Sep 18 17:59:39 2022
+[1m[7m%[27m[1m[0m                                                                                                                                   
+ 
+
+[0m[27m[24m[Jandreasneacsu@Andreass-MacBook-Air 4lab % [K[?2004h./a.outg++ main.cpp[12D./a.out     [?2004l
+
+> A random number has been generated 
+> Can you guess it? Lets find out! 
+> Enter your guess here:  10
+> Too Low!
+> Enter your next guess here:  40
+> Too Low!
+> Enter your next guess here:  60
+> Too Low!
+> Enter your next guess here:  80
+> Too Low!
+> Enter your next guess here:  90
+> Too High!
+> Enter your next guess here:  85
+> Too High!
+> Enter your next guess here:  83
+> Too High!
+> Enter your next guess here:  82
+> Correct! Nice job!
+> It took you 7 trys!
+[1m[7m%[27m[1m[0m                                                                                                                                   
+ 
+
+[0m[27m[24m[Jandreasneacsu@Andreass-MacBook-Air 4lab % [K[?2004heexit[?2004l
+
+
+Script done on Sun Sep 18 18:00:12 2022

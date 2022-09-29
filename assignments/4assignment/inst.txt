@@ -1,0 +1,21 @@
+ For this assignment you will be modifying the NIM game from the text. the code is also posted on the course scehdule. 
+ Make the following changes:
+
+
+
+
+    (Chapter 3, Problem 1) Remove the "magic" numbers from the code. There's nothing particularly special about the 
+    limit of removing 3 objects. Changing the rules to a different number of objects requires changing the conditions 
+    of the loops that control what is a valid move, and the rand() statement so that the computer picks a number in the 
+    correct, new range. The best way to do this is to replace the current "magic" numbers (1 and 3) with variables. This 
+    makes the code easier to read (assuming the variables are given meaningful names like minimum move and maximum move)
+    and makes the code easier to change in the future because only the two new variables need to be changed.
+
+    (Chapter 3, Problem 4) Have the computer print a row of symbols, like #'s or *'s, to represent the number of objects 
+    remaining. This requires a loop that prints num objects of the symbols in a row. A for loop, described in Section A.3 
+    of Appendix A and in Chapter 5, works well, although a do-while loop can also be made to work. (A do-while loop 
+    requiresw variable that "counts" from 1 to num objects as part of the loop.)
+
+    (Chapter 3, Exercise 7) Modify the program to play multiple games in a row without having to 
+    restart the program each time. After each individual game the program should ask the player 
+    if they want to play again. If the player chooses to play again then the program should loop back to the beginning.

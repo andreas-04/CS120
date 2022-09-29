@@ -1,0 +1,44 @@
+ For this lab you will be creating a simple guessing game in which the human player has to guess the computer's 
+ randomly generated number. Additionally, when the player finally guesses correctly the computer tells them how 
+ many guesses it took.
+
+The basic steps of the program are:
+
+    1) The computer generates a random number in the range 1-100 inclusive (including 1 and 100).
+    2) The computer sets a counter variable to 0.
+    3) The human player guesses the number.
+    4) The program increments the guess counter.
+    5) If the guess is wrong:
+        a) The computer tells the player if their guess was too low or too high.
+        b) The program loops back to step 3)
+    If the guess is correct the program stops looping.
+    5) The program tells the user they guessed right and how many guesses it took. (This is after the loop, 
+        so the player must have guessed right.)
+
+
+variables
+    counter
+    correct guess or not loop variable
+    random number
+    players number guess
+
+setup
+
+main()
+    counter = 0
+    generate random number
+    correct guess or not loop variable = true
+    gameOn()
+        have player guess
+            store guess
+        if correct
+             end 
+         else 
+            if(guess>number)
+                tell them too high
+                incremnt 
+            else
+                too low
+                incremnt
+
+

@@ -1,0 +1,17 @@
+
+
+
+    (Chapter 4, Exercise 4) Add a subtraction operation to the calculator.
+    
+    Add an operation that calculates the surface area of a right circular cylinder. This calculation should be done in a separate function, 
+    not in the main() function.
+    
+    Add an operation that calculates the volume of a right circular cylinder. This calculation should be done in a separate function, 
+    not in the main() function.
+
+    Add an operation that calculates the surface area of a right circular cone. This calculation should be done in a separate function, 
+    not in the main() function.
+
+    As always add a comment block to the beginning of the program with your name, section number, date, and the lab number.
+
+Turn in: The .cpp file of your program and screenshots showing your program's output.

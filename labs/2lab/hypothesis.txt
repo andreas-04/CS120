@@ -1,0 +1,47 @@
+
+1: 0
+    hypothesis: false
+2: -7
+    hypothesis: true
+3: -1 + -2
+    hypothesis: true
+4: -7 + 7
+    hypothesis: false
+5: 7 < 8
+    hypothesis: true
+6: 10 > 10
+    hypothesis: false
+7: (7 < 10) || (7 > 10)
+    hypothesis: true
+8: (7 < 10) && (7 > 10)
+    hypothesis: false
+9: -5 >= 5
+    hypothesis: false
+10: (7 > 10) || (-5 == 5)
+    hypothesis: false
+11: !(6 == 7)
+    hypothesis: true
+12: (10 != 11) && (7 > 8)
+    hypothesis: false
+13: (7 == 6) || (7 == 7) || (7 == 8)
+    hypothesis: true
+14: (6 < (8 && 9)) [This one is tricky.]
+    hypothesis: true
+15: (1 == (6 < 8)) [Also tricky.]
+    hypothesis: true
+16: (0 == (0 || 1)) [Still more trickiness.]
+    hypothesis: false
+17: 6 < (5 + 2)
+    hypothesis: true
+18: 6 + (5 == 5)
+    hypothesis: true
+19: (6 < 7) + (7 >= 5)
+    hypothesis: true
+20: (0 < 7) - (0 < 7)
+    hypothesis: false
+21: (1 != (1 >= (4 > 5)))
+    hypotheses: false
+22: (1 && (0 < 1))
+    hypotheses: true
+23: (9 > (12 =< 10))
+    hypotheses: false
