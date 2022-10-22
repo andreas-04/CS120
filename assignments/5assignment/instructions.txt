@@ -1,0 +1,39 @@
+For this assignment you will be creating a simple text based adventure game. Each "room" in the adventure should be represented by it's own function.
+ (A "room" just represents a particular area, not necessarily a literal room.) In each room players are given an option/menu of which room to move to next.
+  Include a loop to make sure the player enters a valid choice.
+
+A very simple example of play is:
+You are in a dark room. You can go 1) North 2) West
+[player enters a 1 or a 2]
+You are in a green room. You can go 1) South 2) East
+[player enters a 1 or a 2] presumably a 2 for East takes them back to the dark room, but maybe your map is non-Euclidean.
+
+Requirements:
+
+    Each "room" should have its own number in the code. So, the code can refer to rooms by their number. Each room function should 
+    print some text describing the room and have some options for where the player can go next. You may also include some options for
+    what the player can do in that room. You should have at least four rooms.
+
+    Each "room" should return an integer value representing the room the player is in or moving to. For example, if the player is in room 3 and chooses
+    to go north, which takes them to room 6, the function for room 3 should return a 6 - the new room the player is moving to. If the player doesn't move
+    the room function should return its own number.
+
+    The main() function should have a switch statement that selects which room function to call next.
+    At least two of the "room" functions should include a static variable that keeps track of whether the room has been entered before. And something 
+    different should happen the first time the room is entered. For example, the first time (and only the first time) that the room is entered the player
+     should get an object.
+
+    There should be at least one (global) "score" variable, such as amount of gold collected, number of butterflies rescued, number of clues found, number of 
+    lives lost, amount of health remaining, etc.. This variable should change as the player moves between rooms. There should be a separate function that 
+    prints the value of the variable for the player. That is, it should print something like:
+    Oxygen Remaining: 120
+
+    for any room the character enters.
+    Remember to put a comment at the beginning of the code with your name, section number, assignment number, etc.
+              
+cout << "             0 \n"
+cout << "             | \n"
+cout << "0-----0------0 \n"
+cout << "      |\n"
+cout << "      0\n"
+
