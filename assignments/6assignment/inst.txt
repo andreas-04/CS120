@@ -1,0 +1,15 @@
+
+
+    Add a new, numeric data member to the pet class. It could be health, money, tiredness, etc. Modify the existing interaction functions (play()
+    and feed()) to also affect this new data member. For example, playing with a pet makes it healthier or more tired.
+
+    Add a new interaction function that changes the new data member. For example, you can have your pet nap() to change tiredness. 
+    This function could change other data members, e.g. nap() decreases tiredness, but increases hunger.
+
+    Modify the print() function so that instead of simply printing the pet's data values it uses if statements to also print appropriate messages. 
+    For example, if the pet's hunger value is high (where you pick high) it prints a message about being hungry. You can make the message general 
+    "Your pet is hungry." or make it seem like it comes from the pet "I'm hungry :( feed me please." Include at least 6 different messages for different 
+    ranges of hungry and happy.
+
+    Change the feed() member function so that it prints different messages randomly. The function will need to generate a random number in some range 
+    and then use that number (and if or switch statements) to pick which message to print.

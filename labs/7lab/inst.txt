@@ -1,0 +1,41 @@
+For this lab you will be creating and testing a rectangle class. Rectangle objects should store 
+the size of a rectangle and be able calculate things like the area and perimeter of 'themselves',
+ and draw themselves as a series of *'s. For example,:
+****
+****
+****
+****
+****
+****
+The rectangle class should have the following features:
+
+    The class should have two private data members, a width and a height.
+    A constructor function that sets the width and height of a rectangle to 0.
+    A function that takes two integers as inputs and sets width and height of a rectangle object. 
+    The function should check that both values are positive and if either value is negative make it
+     positive. For example, if the user tries to set the height to -9, it's set to 9 instead. Zero
+    values are acceptable.
+
+    A print function that prints a rectangle object as:
+    width = ...
+    height = ...
+    where ... has the correct value.
+    A draw() function that draws the rectangle using *'s.
+    An area() function that returns, but does not print, the area of a rectangle.
+    An perimeter() function that returns, but does not print, the perimeter of a rectangle.
+
+ 
+
+As an example, it should be possible to use the following code in main():
+rectangle r1; // creates a rectangle object called r1
+r1.set(4,6); // sets the height and width of the rectangle
+cout << r1.perimeter() << endl; // should print the perimeter of the rectangle
+int a = r1.area(); // should store the area of the rectangle in variable a, nothing is printed
+r1.print(); // prints the height and width of the rectangle as described above
+r1.draw(); // "draws" the rectangle with *'s as shown above
+
+To test the rectangle class create at least three different rectangle objects and use them to test 
+all of the above functions. Note that for the area() and perimeter() functions the main() function 
+will need to print the results because they are not printed by the functions.
+
+Turn in: The .cpp file of your program and screenshots showing your program's output.

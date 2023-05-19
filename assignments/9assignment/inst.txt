@@ -1,0 +1,41 @@
+This assignment will combine arrays with objects, using our pet class. In this assignment you will be creating a program 
+that allows a user to interact with multiple pets. This requires having an array of pet objects and letting the user select 
+which of their pets they want to interact with on each turn (loop of the program).
+
+    pets.cpp this is the main file for the pets program. Notice that it includes the file pet.h, which defines the pet class. 
+    You can compile and run pets.cpp, but it doesn't do anything yet. The required code is missing, but described in the 
+    comments. Your job is to replace the comments with the actual code.
+
+    pet.h this file defines the pet class. You are encouraged to use your own pet class from the previous assignments if you
+    want. Notice that this pet class includes a new interact() function that contains the menu of choices you interacting
+    with a pet. If you use your own pet class you will need to add a similar function.
+
+    Players should be able to pick which pet to interact with using a menu that lists the pets by name and has an option for
+    exiting the game. E.g.:
+
+    0) Exit the game
+    1) Fluffy, jr.
+    2) The Mousinator
+    3) Bob
+    
+    One of the options should be to exit the game. (Note that in the new pet class uses the getline() function to get the
+    pet's name, so it can include spaces.)
+    After a player interreacts with one of their pets, all of the pets should gain some hunger and lose a little happiness, 
+    as described in the comments. Then the status of all of the pets should be printed so the player can decide which pet 
+    to interact with next.
+
+
+
+This assignment has several opportunities for extra credit:
+
+    Saving: using the ideas of file streams allow the player to save and load all of their pets. Saving could happen
+    automatically when the player exits. To load a set of pets the player will probably need to give the program a file 
+    name. (An easier starting point is to only allow one save file with a fixed name.)
+
+    Resource Balancing: add a resource that needs to be balanced. For example, money. Feeding the pets uses up money, but
+    some activities, for example a pet show, earns money (but also makes the pets tired and hungry). A random factor, e.g.
+    how well they do in the pet show and how much they earn, makes this a more exciting 'game'.
+
+    Random Events: after the player interacts with a pet have one of the pets undergo a random event (gets loose,
+    finds a treat, learns a trick, digs up buried treasure, etc.). This should effect their happiness, hunger, and any 
+    variables you might have added. One way to add this is to add a random event function to the pet class.

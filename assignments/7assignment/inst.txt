@@ -1,0 +1,25 @@
+
+    ---The class should have two private data members, a numerator and a denominator.---
+
+    ---A function that takes two integers as inputs and sets the numerator and denominator of a fraction object. The function 
+    should check that the denominator
+    is not zero and set the fraction to 0 over 1 if the denominator is zero. (This is almost the same as the set() 
+    function that is already part of the class.)---
+    
+    A print function that prints a fraction object as an improper fraction, e.g. 6/4. (This is part of the class we 
+    created in lecture.)
+
+    ---A print function that prints a fraction object as a mixed number, e.g. 1 2/4. This is new, you will need to use the
+    modulus operator % to make it work.---
+
+    ---A print function that prints a fraction object as a decimal, e.g. 1.5. (This is part of the class we created in 
+    lecture.)--- 
+    
+    Each of these print functions
+    should have it's own name.
+
+    ---A constructor that takes no arguments and sets a fraction to be 1/1.---
+
+    ---A constructor that takes two integers as inputs and sets the numerator and denominator of a fraction object. 
+    The function should check that the 
+    denominator is not zero and set the fraction to 0 over 1 if the denominator is zero.---

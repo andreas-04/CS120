@@ -1,0 +1,35 @@
+For this lab you will be creating a frame class The frame class is similar to our previous rectangle class, it should 
+contain a width and a height and 'draw' frames:
+****
+*  *
+*  *
+*  *
+****
+This is 2 by 3 frame - note that the internal space is 2 wide by 3 high.
+
+The class should have the following properties:
+
+    Private data members to hold the width and height values.
+    Three constructors. The first constructor takes no arguments and sets the width and height to both be one. The second 
+    constructor takes one argument and makes a square frame with the given width and height. The third constructor takes 
+    two arguments and sets the width to be the first value and the height to be the second value. If any of the given values 
+    are less than one they are set to one.
+
+    A set function that takes two arguments and sets the width and height. If either of the given values are less than 
+    one they are set to one.
+
+    A draw() function that 'draws' a frame as shown above.
+
+ 
+
+Your program must use this frame.cpp file as the main program without any changes. Your final class must work with this 
+main() file. However, for testing purposes you may want to temporarily comment out some of the main() file.
+
+Your rectangle class must be written in a file called frame.h so that it will load properly.
+
+Your rectangle class may not get any input from the user.
+
+The output of your program should be exactly as shown in this file.
+
+Turn in: A copy of the program and sample output showing it runs. As always, if you cannot finish all of the functionality 
+turn in as much as you complete - as long as your code compiles and runs.

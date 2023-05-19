@@ -1,0 +1,52 @@
+For this assignment you will be creating a series of functions for manipulating an array of data. 
+The data will consist of randomly generated doubles. You should make the following functions:
+
+    generate() - This function fills an array with random doubles in a specified range. This function takes four inputs:
+    an array of doubles, an integer representing the size of the array, and two doubles representing the lower an upper
+    bounds of the range random values. For example, the function call:
+    generate(data,100,-5.0,5.0);
+    should fill the array called data[] with 100 random values between -5.0 and 5.0.
+
+    print() - This function should print an array of values. The function takes two inputs: an array and the size of 
+    the array. Exactly how the values are printed is up to you, but its probably best not to print each value on its 
+    own line.
+
+    average() - This function returns the average of an array of values. The function takes two inputs: an array and
+    the size of the array, and it returns a double.
+
+    min() This function returns the smallest value from an array of values. The function takes two inputs: an array and 
+    the size of the array, and it returns a double.
+
+    max() This function returns the largest value from an array of values. The function takes two inputs: an array 
+    and the size of the array, and it returns a double.
+
+    addX() This function adds a value to every element in an array. function takes three inputs: an array, the size of the
+    array, and the value to be added to each element of the array. For example, if you have an array [5.5, 6.6, 7.7] 
+    and you call:
+    add(array, 3, 2.5)
+    the array should become [8, 9.1, 10.2], that is each element had 2.5 added to it.
+
+    num_less() This function returns the number of values that are lower than the average value of an array of values.
+    That is it counts how many values are less than the average and returns that number. The function takes two inputs: 
+    an array and the size of the array, and it returns an integer (the number of values below the average).
+
+    num_more() This function returns the number of values that are higher than the average value of an array of values. 
+    That is it counts how many values are less than the average and returns that number. The function takes two inputs: 
+    an array and the size of the array, and it returns an integer (the number of values above the average).
+
+    num_less() (same name as the function above) This function returns the number of values that are lower than a threshold 
+    value in an array of values. That is it counts how many values are less than the threshold value. The threshold value is 
+    passed to the function. The function takes three inputs: an array, the size of the array, and a double which is the 
+    threshold value. It returns an integer, which is the number of values below the threshold.
+
+    range() This returns the range of values in the array, i.e. the difference between the largest and smallest values in 
+    the array. The function takes two inputs: an array and the size of the array. It returns a double, which is the range.
+
+    Extra Credit: std_dev() This function returns the standard deviationLinks to an external site. of the values in the array.
+    Note in the formula on the linked web page the Greek symbol is mu, which is the average (or mean) of the data. 
+    The square root function is defined in the cmath library, which you can include. The function takes two inputs: 
+    an array and the size of the array. It returns a double, which is the standard deviation.
+
+ 
+
+Make sure to write a main() function that tests each of the functions. It should use the generate() function to fill the array. If you can't finish all of the functions make a note of which ones you did finish in the code comments.

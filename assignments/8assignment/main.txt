@@ -1,0 +1,199 @@
+Script started on Fri Oct 21 14:44:22 2022
+[1m[7m%[27m[1m[0m                                                                                                              ]7;file://Andreass-MacBook-Air.local/Users/andreasneacsu/desktop/code/cs120/assignments/8assignment[0m[27m[24m[Jandreasneacsu@Andreass-MacBook-Air 8assignment % [K[?2004h./a.out[?2004l
+Enter your upper bound
+>> 100
+Enter your lower bound
+>> \ 0
+Press enter to generate your array
+
+
+(0)Print array
+(1)Print Average
+(2)Print Min
+(3)Print Max
+(4)Add a value
+(5)Print Numbers Less than the Average
+(6)Print Numbers Greater than the Average
+(7)Print Numbers Less Than a Certain Threshold
+(8)Print the Range
+(9)End PRGRM
+>>0
+30
+91 15 72 61 41
+10 37 98 41 94
+80 26 96 10 88
+59 5 84 14 26
+13 83 54 87 41
+46 37 53 19 60
+51 54 78 94 76
+91 56 60 94 62
+80 7 37 66 90
+7 12 58 26 26
+40 14 36 45 14
+99 45 87 20 46
+18 97 75 12 28
+3 71 96 11 3
+29 12 52 31 83
+92 22 68 65 53
+73 76 94 91 76
+91 79 61 43 18
+63 74 3 29 50
+36 59 69 95 
+(0)Print array
+(1)Print Average
+(2)Print Min
+(3)Print Max
+(4)Add a value
+(5)Print Numbers Less than the Average
+(6)Print Numbers Greater than the Average
+(7)Print Numbers Less Than a Certain Threshold
+(8)Print the Range
+(9)End PRGRM
+>>1
+52.43
+
+(0)Print array
+(1)Print Average
+(2)Print Min
+(3)Print Max
+(4)Add a value
+(5)Print Numbers Less than the Average
+(6)Print Numbers Greater than the Average
+(7)Print Numbers Less Than a Certain Threshold
+(8)Print the Range
+(9)End PRGRM
+>>2
+3
+
+(0)Print array
+(1)Print Average
+(2)Print Min
+(3)Print Max
+(4)Add a value
+(5)Print Numbers Less than the Average
+(6)Print Numbers Greater than the Average
+(7)Print Numbers Less Than a Certain Threshold
+(8)Print the Range
+(9)End PRGRM
+>>3
+99
+
+(0)Print array
+(1)Print Average
+(2)Print Min
+(3)Print Max
+(4)Add a value
+(5)Print Numbers Less than the Average
+(6)Print Numbers Greater than the Average
+(7)Print Numbers Less Than a Certain Threshold
+(8)Print the Range
+(9)End PRGRM
+>>4
+How much would you like to add to each value? 
+>>1
+
+(0)Print array
+(1)Print Average
+(2)Print Min
+(3)Print Max
+(4)Add a value
+(5)Print Numbers Less than the Average
+(6)Print Numbers Greater than the Average
+(7)Print Numbers Less Than a Certain Threshold
+(8)Print the Range
+(9)End PRGRM
+>>0
+31
+92 16 73 62 42
+11 38 99 42 95
+81 27 97 11 89
+60 6 85 15 27
+14 84 55 88 42
+47 38 54 20 61
+52 55 79 95 77
+92 57 61 95 63
+81 8 38 67 91
+8 13 59 27 27
+41 15 37 46 15
+100 46 88 21 47
+19 98 76 13 29
+4 72 97 12 4
+30 13 53 32 84
+93 23 69 66 54
+74 77 95 92 77
+92 80 62 44 19
+64 75 4 30 51
+37 60 70 96 
+(0)Print array
+(1)Print Average
+(2)Print Min
+(3)Print Max
+(4)Add a value
+(5)Print Numbers Less than the Average
+(6)Print Numbers Greater than the Average
+(7)Print Numbers Less Than a Certain Threshold
+(8)Print the Range
+(9)End PRGRM
+>>^[  5
+There are, 48#'s less than the avg of this array
+
+(0)Print array
+(1)Print Average
+(2)Print Min
+(3)Print Max
+(4)Add a value
+(5)Print Numbers Less than the Average
+(6)Print Numbers Greater than the Average
+(7)Print Numbers Less Than a Certain Threshold
+(8)Print the Range
+(9)End PRGRM
+>>6
+There are, 52#'s greater than the avg of this array
+
+(0)Print array
+(1)Print Average
+(2)Print Min
+(3)Print Max
+(4)Add a value
+(5)Print Numbers Less than the Average
+(6)Print Numbers Greater than the Average
+(7)Print Numbers Less Than a Certain Threshold
+(8)Print the Range
+(9)End PRGRM
+>>7
+What would you like your threshold value to be?
+>>4
+There are, 0 #'s less than the threshold
+
+(0)Print array
+(1)Print Average
+(2)Print Min
+(3)Print Max
+(4)Add a value
+(5)Print Numbers Less than the Average
+(6)Print Numbers Greater than the Average
+(7)Print Numbers Less Than a Certain Threshold
+(8)Print the Range
+(9)End PRGRM
+>>8
+the range of this array is : 96
+
+(0)Print array
+(1)Print Average
+(2)Print Min
+(3)Print Max
+(4)Add a value
+(5)Print Numbers Less than the Average
+(6)Print Numbers Greater than the Average
+(7)Print Numbers Less Than a Certain Threshold
+(8)Print the Range
+(9)End PRGRM
+>>9
+Bye[1m[7m%[27m[1m[0m                                                                                                              ]7;file://Andreass-MacBook-Air.local/Users/andreasneacsu/desktop/code/cs120/assignments/8assignment[0m[27m[24m[Jandreasneacsu@Andreass-MacBook-Air 8assignment % [K[?2004heexit[?2004l
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+Deleting expired sessions...      47 completed.
+
+Script done on Fri Oct 21 14:46:51 2022

@@ -1,0 +1,9 @@
+   7 -0.5 -2 % oooooh, you got called to the principles office, back 2 -0.5 GPA
+   5 -1.0 -5 % You failed your math quiz! Back to start! -1.0 GPA
+   14 -0.5 -3 % Late to class? Again!? Back 3 -0.5 GPA
+   18 -1.5 -5 % Caught skipping school, detention. Back 5 -1.5 GPA
+   4 0.5 +1 * Hall Pass! Move ahead 1, 0.5 GPA
+   16 1.5 +3 * Hall Pass! Skip ahead 3 +1.5 GPA
+   12 1.0 +3 * Hall Pass! Skip ahead 3 +1.0 GPA
+   8 1.5 +2 * Hall Pass! Skip ahead 3 +1.5 GPA
+   1 2.5 +5 * Teachers Pet! Skip 5 spaces +2.5 GPA

@@ -1,0 +1,41 @@
+For this lab you will be reading in and analyzing a set of data. The data file is in the file weather.txt. You should begin
+by opening the file with nano or another text editor and examining the format - note that it contains the weather for Moscow,
+ID for all of January 2016.
+
+For this lab you need to write a program to read in the data and do the following calculations:
+
+    Report the highest recorded temperature.
+    Report the lowest recorded temperature.
+    Report the average daily high temperature.
+    Report the average daily low temperature.
+    Report the daily change in total snow depth.
+
+
+To read in a data file you need to open the file using the fstream library, so include the fstream library the same way you 
+include the iostream library. Then the program to create an input file stream object of the class ifstream and connect it 
+to the weather file:
+
+ifstream infile; // this creates an ifstream object called infile
+infile.open("weather.txt"); // this connects infile to the text file
+Then you can read from the file using infile:
+infile >> x;
+Note that the >> symbols are used just as with cin, but now the data is coming from a file rather than the keyboard.
+
+The weather.txt file contains 8 columns of data (if the date is treated as 3 columns). So, you may want to create 8 
+separate arrays one for each column. Alternatively, you could create fewer arrays and "throw away" data that you don't 
+need - i.e. read it into a variable and then ignore that variable. This would be a reasonable approach with the jan data
+or the 2016 data because you don't need it.
+
+Note that the code to read in the data may look something like:
+for(int i = 0; i < number of rows; i++){
+infile >> array1[i];
+infile >> array2[i];
+infile >> array3[i];
+...
+There is also the problem of the first row, which is the column headers. One simple way of dealing with this row is simply 
+to create another data file and delete the row from it. A second approach is to begin by using the getline(infile,str) 
+function to read the whole row as one long string before reading in the data. str is of type string, which requires 
+including the string library.
+
+Turn in: A copy of the program and sample output showing it runs. As always, if you cannot finish all of the functionality 
+turn in as much as you complete - as long as your code compiles and runs.

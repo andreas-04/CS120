@@ -1,0 +1,11 @@
+Script started on Fri Oct 21 17:03:18 2022
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[Jandreasneacsu@Andreass-MacBook-Air 8lab % [K[?2004hscript main.txt[15Dclear          [10Dscript main.txt[15Dclear          [10Dg++ main.cpp[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[Jandreasneacsu@Andreass-MacBook-Air 8lab % [K[?2004hg++ main.cpp[12Dscript main.txt[15Dclear          [10Dg++ main.cpp[12D./a.out     [?2004l
+The highest temprature was 45 degrees
+The lowest temprature was -7.1 degrees
+The average daily temp was 37.529 degrees
+The average daily low temp was 27.1645 degrees
+The average change in snow depth was 2.90645 inches
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[Jandreasneacsu@Andreass-MacBook-Air 8lab % [K[?2004heexit[?2004l
+
+Script done on Fri Oct 21 17:03:33 2022
